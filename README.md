@@ -1,4 +1,6 @@
-# web-sys: DOM random numbers
+# web-sys: DOM random characters
+
+Generates 100 random characters and appends them as spans in the DOM (and console logs them). All in WASM.
 
 https://phocks.github.io/wasm-dom-rust/
 
