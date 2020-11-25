@@ -1,10 +1,6 @@
-# web-sys: DOM hello world
+# web-sys: DOM random numbers
 
-[View documentation for this example online][dox] or [View compiled example
-online][compiled]
-
-[compiled]: https://rustwasm.github.io/wasm-bindgen/exbuild/dom/
-[dox]: https://rustwasm.github.io/docs/wasm-bindgen/examples/dom.html
+https://phocks.github.io/wasm-dom-rust/
 
 You can build the example locally with:
 
